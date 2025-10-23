@@ -6,6 +6,12 @@
 
 *A brief description of your approach, a link/reference to the detailed description of your approach and what you have already created (if applicable). Please also mention which skills you need for your team.*
 
+<img width="1915" height="938" alt="Seite _1" src="https://github.com/user-attachments/assets/d10434c9-4e5e-45c5-9b7a-fa114f4578f9" />
+<img width="1916" height="940" alt="Seite_2" src="https://github.com/user-attachments/assets/54b3fa75-652f-4e85-9ba5-476a7c62aca7" />
+<img width="1912" height="940" alt="Seite_3" src="https://github.com/user-attachments/assets/385334bb-05b5-4950-ad49-166766373d95" />
+<img width="1912" height="938" alt="Seite_4" src="https://github.com/user-attachments/assets/e7d11adf-d83e-4d9c-8dda-52a7c7dfb996" />
+<img width="1916" height="940" alt="Seite_5" src="https://github.com/user-attachments/assets/d8c44bba-91a5-4e22-84a8-60e258ceedeb" />
+
 ## Documentation and Diagrams
 
 *Together, you will contribute to comparing different ways of how to implement e-collecting in Switzerland from A to Z. As part of the [participatory process](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/partizipativer_prozess.html), your solutions will be discussed in subsequent workshops and will possibly be taken into account for the official decision on the design of the federal e-collecting trials. Proper documentation is key to ensuring that your solution can be understood and evaluated:*
@@ -89,10 +95,14 @@ sequenceDiagram
 
 | Topic | (How) is it addressed? |
 | -| ------- |
-| 1 |  |
-| 2 |  |
-| 3 |  |
-| ... |  |
+| 1 | Verschiedene User-Journey, eindeutige Komitee-ID, Menschen mit Beeinträchtigungen können Ihre politischen Rechte selbstbestimmt wahrnehmen|
+| 2 | Mit Hilfe eines Dashboard werden die Daten für das Komitee in Echtzeit aufbereitet  |
+| 3 | Die Blockchain-Technologie ermöglicht die gesammelten Unterstützungsbekundungen den Sammelorganisationen eindeutig zuzuschreiben |
+| 5 | Starke Authentifizierung durch eID mit zusätzlicher Blockchain-Technologie verhindert Fälschungen |
+| 6 | Mit Blockchain-Technologie und Dashboardvisualisierung der gezählten gültigen Stimmen in Echtzeit sind unterschlagene Unterstützungsbekundungen nicht mehr möglich |
+| 7 | Stufe 3 |
+| 8 | Anbindung Papierprozess - manuelle Überprüfung direkt auf der Blockchain |
+
 
 ## Key Strenghts and Weaknesses
 
